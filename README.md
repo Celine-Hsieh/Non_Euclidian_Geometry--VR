@@ -8,7 +8,7 @@
 This is the Final Project about Metaverse with Unity and C# Script.
 The concept of the game is trying to subvert your imagination and change your mind about what the world should be like in Metaverse.
 
----
+
 ## About Non-Euclidean Geometry
 ***What is Euclidean Geometry?***
 
@@ -26,7 +26,7 @@ But it turns out that not everything lives in a two-dimensional flat world and t
 
 ***The world, as a non euclidian world, behaves differently, having doors that lead to the same place and other paths that lead to nothing at all.*** 
 
----
+
 
 ##  System design (Core Mechanics)
 > It is used a portal mechanic to fool the player. 
@@ -34,7 +34,7 @@ But it turns out that not everything lives in a two-dimensional flat world and t
 > It is used off-screen render targets to achieve a portal effect in Unity.
 > 
 > It is also a scaling mechaninc that shrinks or enlarges the Player.
----
+
 
 ## Control
 > [VR version](https://github.com/celinehsieh68/Non_Euclidian_Geometry--VR)(Device: htc vive with controller):
@@ -46,7 +46,7 @@ But it turns out that not everything lives in a two-dimensional flat world and t
 1. W A S D - Move forward/backward
 2. Mouse - Left-Button to interact
 3. Space bar - jump
----
+
 
 ## Other
 2022/01/11
